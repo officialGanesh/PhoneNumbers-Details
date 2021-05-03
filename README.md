@@ -6,7 +6,7 @@ In this project we'll be getting the service provider and country name using pho
 Using phonenumber module in python you can perform this task easily. ☮️
 
 ### Task To Perform
-1️⃣ add phone number
+1️⃣ add phone number (In string format)
 2️⃣ get country name
 3️⃣ get service provider 
 
